@@ -1,28 +1,20 @@
-# Yemeni Hunter V5 - Ibb Edition 💚
-By Mahmoud Al-Daei | Ibb - The Green City, Yemen
-SOC Level 1 Phishing & OSINT Detector
+![Yemeni Hunter Ibb Logo](IMG-20261001-WA3253.jpg)
 
-## Proof of Work (Real Test from Termux)
-- PHISHING: http://faceb00k-login-security.com
-  => SUSPICIOUS 6/10
-  => Detected: Typo-squatting (0 instead of o) + login-secure-verify + No HTTPS
+# Yemeni-Hunter-Ibb V5 - Ibb Edition
+### From Mahmoud Al-Da'i - Phishing Detector & SOC L1 Reserve
 
-- SAFE: https://www.google.com
-  => SAFE 0/10
-  => IP: 216.239.38.120
-  => VirusTotal: https://www.virustotal.com/gui/domain/www.google.com
+Advanced Phishing Detection & OSINT Tool developed in Ibb, Yemen.
 
 ## Features
-- Typo-squatting detection
-- Suspicious keywords
-- Dashes / @ / IP / HTTPS checks
-- Domain to IP resolver
-- Auto VirusTotal link
-- Logging to hunter_reports.txt
-
-## Usage
-python hunter.py
+- Phishing URL Detection
+- OSINT Investigation
+- Email Header Analysis
+- SOC L1 Ready
 
 ## Author
-Mahmoud Al-Daei - Ibb - 2026
-The Green City Hunter
+**Mahmoud Al-Da'i** - Ibb, Yemen
+
+## Installation
+git clone https://github.com/msd773/Yemeni-Hunter-Ibb.git
+cd Yemeni-Hunter-Ibb
+python hunter.py
