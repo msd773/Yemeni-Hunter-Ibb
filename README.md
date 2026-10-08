@@ -1,26 +1,15 @@
+# Yemeni-Hunter-Ibb V7 ULTIMATE
 
-![المشاهدات](https://komarev.com/ghpvc/?username=msd773&repo=Yemeni-Hunter-Ibb&label=Views&color=green)
-![Stars](https://img.shields.io/github/stars/msd773/Yemeni-Hunter-Ibb?style=social)
+![Yemeni Hunter](IMG-20261001-WA3253.jpg)
 
+From Mahmoud Al-Da'i - Ibb, Yemen
+Phishing Detector & SOC L1
 
-
-![Yemeni Hunter Ibb Logo](IMG-20261001-WA3253.jpg)
-
-# Yemeni-Hunter-Ibb V5 - Ibb Edition
-### From Mahmoud Al-Da'i - Phishing Detector & SOC L1 Reserve
-
-Advanced Phishing Detection & OSINT Tool developed in Ibb, Yemen.
-
-## Features
+Features V7 ULTIMATE:
 - Phishing URL Detection
 - OSINT Investigation
 - Email Header Analysis
+- Domain Reputation
 - SOC L1 Ready
 
-## Author
-**Mahmoud Al-Da'i** - Ibb, Yemen
-
-## Installation
-git clone https://github.com/msd773/Yemeni-Hunter-Ibb.git
-cd Yemeni-Hunter-Ibb
-python hunter.py
+Author: Mahmoud Al-Da'i - @msd773
