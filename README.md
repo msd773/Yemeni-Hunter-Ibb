@@ -1,6 +1,6 @@
 # Yemeni-Hunter-Ibb V7 ULTIMATE
 
-![Yemeni Hunter](IMG-20261001-WA3253.jpg)
+![Yemeni Hunter](banner_v7.jpg)
 
 From Mahmoud Al-Da'i - Ibb, Yemen
 Phishing Detector & SOC L1
