@@ -1,3 +1,9 @@
+
+![المشاهدات](https://komarev.com/ghpvc/?username=msd773&repo=Yemeni-Hunter-Ibb&label=Views&color=green)
+![Stars](https://img.shields.io/github/stars/msd773/Yemeni-Hunter-Ibb?style=social)
+
+
+
 ![Yemeni Hunter Ibb Logo](IMG-20261001-WA3253.jpg)
 
 # Yemeni-Hunter-Ibb V5 - Ibb Edition
